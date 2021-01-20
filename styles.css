@@ -48,8 +48,18 @@ hr {
 
 /** lists **/
 .list-non-bullet {
-    list-style: none;
+    list-style: none;    
 }
+
+.reversed {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+/* ul { 
+    display: flex;
+    flex-direction: column-reverse;
+} */
 
 .list-item-inline {
     display: inline;
