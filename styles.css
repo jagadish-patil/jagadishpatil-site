@@ -145,14 +145,3 @@ hr {
 .footer ul {
     padding-inline-start: 0px;
 }
-
-/** spaces **/
-.margin-md {
-    margin: 2rem;
-}
-
-/** blogs.html **/
-.blog-link {
-    text-decoration: none;
-    /** padding: 0.5rem 1rem;**/
-}
