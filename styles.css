@@ -151,7 +151,7 @@ hr {
 }
 
 .boxmodel {
-    max-width: 450px;
+    max-width: 300px;
     display: block;
     margin: auto;
 }
