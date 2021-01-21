@@ -149,3 +149,9 @@ hr {
 .blog-span {
     font-size: 16pt;
 }
+
+.boxmodel {
+    max-width: 450px;
+    display: block;
+    margin: auto;
+}
